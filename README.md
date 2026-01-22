@@ -13,10 +13,10 @@ Each project reflects my commitment to clarity, innovation and measurable impact
 - SQL & Database Management: Adept at querying, managing, and optimizing relational databases including PostgreSQL and MySQL
   
 ## 🚀 Featured Projects
-- Bank Customer Churn [view Project Repo] ()
+- Bank Customer Churn [view Project Repo] (https://github.com/Oltomisin/Featured-Projects/tree/main/Customer%20Churn%20Data)
 - Call Centre Analysis [view Project Repo] (https://github.com/Oltomisin/Featured-Projects/tree/main/Call%20Centre%20Analysis)
-- DVD Rentals [view Project Repo] ()
-- Super Stores Dashboard [view Project Repo] ()
+- DVD Rentals [view Project Repo] (https://github.com/Oltomisin/Featured-Projects/tree/main/DVD%20Rentals)
+- Super Stores Dashboard [view Project Repo] (https://github.com/Oltomisin/Featured-Projects/tree/main/Super%20Store%20Data)
 
 ## 📫 Contact Me
 - Email: tosin4real2011@gmail.com
