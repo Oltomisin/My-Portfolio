@@ -13,10 +13,10 @@ Each project reflects my commitment to clarity, innovation and measurable impact
 - SQL & Database Management: Adept at querying, managing, and optimizing relational databases including PostgreSQL and MySQL
   
 ## 🚀 Featured Projects
-- Bank Customer Churn
-- Call Centre Analysis
-- DVD Rentals
-- Super Stores Dashboard
+- Bank Customer Churn [view Project Repo] ()
+- Call Centre Analysis [view Project Repo] ()
+- DVD Rentals [view Project Repo] ()
+- Super Stores Dashboard [view Project Repo] ()
 
 ## 📫 Contact Me
 - Email: tosin4real2011@gmail.com
