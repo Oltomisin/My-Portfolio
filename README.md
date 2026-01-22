@@ -14,7 +14,7 @@ Each project reflects my commitment to clarity, innovation and measurable impact
   
 ## 🚀 Featured Projects
 - Bank Customer Churn [view Project Repo] ()
-- Call Centre Analysis [view Project Repo] ()
+- Call Centre Analysis [view Project Repo] (https://github.com/Oltomisin/Featured-Projects/tree/main/Call%20Centre%20Analysis)
 - DVD Rentals [view Project Repo] ()
 - Super Stores Dashboard [view Project Repo] ()
 
